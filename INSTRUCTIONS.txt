@@ -1,0 +1,2 @@
+In Visual Studio 2019, open the appsettings.json and change the property "DevConnection" so that the server relects the local server on your machine.
+Run the project and it should work.
