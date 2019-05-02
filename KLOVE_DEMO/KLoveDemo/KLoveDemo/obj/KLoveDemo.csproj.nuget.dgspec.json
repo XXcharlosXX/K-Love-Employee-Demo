@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Charlie\\Desktop\\KLOVE_DEMO\\KLoveDemo\\KLoveDemo\\KLoveDemo.csproj": {}
+    "C:\\Users\\Charlie\\Documents\\GitHub\\K-Love-Employee-Demo\\KLOVE_DEMO\\KLoveDemo\\KLoveDemo\\KLoveDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Charlie\\Desktop\\KLOVE_DEMO\\KLoveDemo\\KLoveDemo\\KLoveDemo.csproj": {
+    "C:\\Users\\Charlie\\Documents\\GitHub\\K-Love-Employee-Demo\\KLOVE_DEMO\\KLoveDemo\\KLoveDemo\\KLoveDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Charlie\\Desktop\\KLOVE_DEMO\\KLoveDemo\\KLoveDemo\\KLoveDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Charlie\\Documents\\GitHub\\K-Love-Employee-Demo\\KLOVE_DEMO\\KLoveDemo\\KLoveDemo\\KLoveDemo.csproj",
         "projectName": "KLoveDemo",
-        "projectPath": "C:\\Users\\Charlie\\Desktop\\KLOVE_DEMO\\KLoveDemo\\KLoveDemo\\KLoveDemo.csproj",
+        "projectPath": "C:\\Users\\Charlie\\Documents\\GitHub\\K-Love-Employee-Demo\\KLOVE_DEMO\\KLoveDemo\\KLoveDemo\\KLoveDemo.csproj",
         "packagesPath": "C:\\Users\\Charlie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Charlie\\Desktop\\KLOVE_DEMO\\KLoveDemo\\KLoveDemo\\obj\\",
+        "outputPath": "C:\\Users\\Charlie\\Documents\\GitHub\\K-Love-Employee-Demo\\KLOVE_DEMO\\KLoveDemo\\KLoveDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
